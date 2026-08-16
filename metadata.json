@@ -1,0 +1,6 @@
+{
+  "name": "Google AI Studio Workshop",
+  "description": "An interactive environment to learn, build, and explore AI using Google products. Includes a gallery of ideas and a smart vision organizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
